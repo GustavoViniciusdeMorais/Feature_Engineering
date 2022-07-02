@@ -8,4 +8,6 @@ sudo docker-compose up -d --build
 sudo docker exec -it [container_name_1] sh
 
 pip install feature_engine
+
+pip install category_encoders
 ```
